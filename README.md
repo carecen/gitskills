@@ -1,1 +1,2 @@
 # gitskills
+learn new.
